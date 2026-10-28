@@ -1,0 +1,145 @@
+text,category,split
+My credit card statement includes a duplicate merchant charge for the same purchase.,credit_card,train
+An annual fee appeared on my credit card even though the offer said no annual fee.,credit_card,train
+I paid my credit card bill on time but received a late payment fee on the statement.,credit_card,train
+My credit card reward points disappeared after a purchase was refunded.,credit_card,train
+There are unauthorized purchases on my stolen credit card and I need to dispute them.,credit_card,train
+The credit card interest charge does not match the advertised purchase rate.,credit_card,train
+My card refund from the merchant has not appeared on the credit card statement.,credit_card,train
+The credit card was declined at a shop despite having available credit.,credit_card,train
+I want to dispute a card transaction for goods that were never delivered.,credit_card,train
+My credit card limit was reduced without an explanation.,credit_card,train
+The minimum payment on the credit card bill looks incorrect this month.,credit_card,train
+I cancelled my credit card but the bank continues to charge a membership fee.,credit_card,train
+The card issuer charged a foreign transaction fee on a domestic card purchase.,credit_card,train
+A promotional credit card interest rate ended earlier than stated in the offer.,credit_card,train
+My credit card cash back reward was calculated incorrectly.,credit_card,train
+A replacement credit card has not arrived and the old card has expired.,credit_card,train
+A shop billed my credit card twice and I am frustrated about the duplicate transaction.,credit_card,validation
+I have an unexpected membership charge on this month credit card bill.,credit_card,validation
+How do I challenge a merchant purchase showing on my card statement?,credit_card,validation
+The interest on my card balance increased during a promotional period.,credit_card,validation
+My credit card statement shows two charges for one restaurant visit.,credit_card,test
+A late fee was added to my card bill although payment was received before the due date.,credit_card,test
+The card issuer has not applied the promised cash back points.,credit_card,test
+My credit card was stolen and someone used it for online purchases.,credit_card,test
+I am locked out of my online banking account and cannot reset the login password.,bank_account,train
+The bank froze my checking account and I cannot access my salary.,bank_account,train
+A monthly maintenance fee was deducted from my savings account unexpectedly.,bank_account,train
+I cannot log in to mobile banking after changing my phone number.,bank_account,train
+My direct salary deposit is missing from my checking account balance.,bank_account,train
+The bank closed my current account without notifying me.,bank_account,train
+An overdraft fee was charged on my checking account despite enough available funds.,bank_account,train
+My savings account earns less interest than the rate on the account agreement.,bank_account,train
+The ATM debited my bank account but did not dispense any cash.,bank_account,train
+My checking account statement contains a withdrawal I do not recognize.,bank_account,train
+I submitted documents to open a savings account but it is still inactive.,bank_account,train
+The mobile banking app keeps rejecting the verification code for account login.,bank_account,train
+I need to update the address linked to my bank account.,bank_account,train
+My bank account remains frozen after I completed identity verification.,bank_account,train
+A check deposited into my checking account is still on hold.,bank_account,train
+I want to close an unused savings account and stop the maintenance charges.,bank_account,train
+The banking app will not let me sign into my checking account.,bank_account,validation
+My savings account has a maintenance charge that was not disclosed.,bank_account,validation
+My salary reached the bank but is not visible in the checking account.,bank_account,validation
+How can I recover access to online banking after losing my phone?,bank_account,validation
+My bank account login is blocked and password recovery fails repeatedly.,bank_account,test
+An unexpected overdraft charge reduced my checking balance.,bank_account,test
+The savings account was suspended even after I verified my identity.,bank_account,test
+The ATM took money from my account but no cash came out.,bank_account,test
+My international money transfer is pending and the recipient has not received the funds.,money_transfer,train
+A wire transfer was sent to the wrong beneficiary account.,money_transfer,train
+The remittance exchange rate differed from the rate shown before sending money.,money_transfer,train
+My payment transfer failed but the money was debited.,money_transfer,train
+I sent money through a payment app and the recipient received nothing.,money_transfer,train
+The bank has not returned the funds from a cancelled wire transfer.,money_transfer,train
+An unauthorized money transfer left my wallet after a scam.,money_transfer,train
+My domestic bank transfer is stuck in processing for several days.,money_transfer,train
+I was charged the transfer fee twice for one remittance.,money_transfer,train
+A recurring money transfer continued after I cancelled it.,money_transfer,train
+I entered an incorrect recipient number for a digital wallet transfer.,money_transfer,train
+The payment service delayed an urgent transfer for my rent.,money_transfer,train
+The transfer tracking reference says delivered but the beneficiary has no funds.,money_transfer,train
+My cross border payment was returned with unexplained remittance fees.,money_transfer,train
+I cannot cancel a pending electronic money transfer.,money_transfer,train
+The transfer service sent a smaller amount than the remittance receipt shows.,money_transfer,train
+My wire payment has not arrived in the beneficiary account.,money_transfer,validation
+An electronic transfer failed while still deducting money from my balance.,money_transfer,validation
+The exchange rate for my remittance changed after confirmation.,money_transfer,validation
+How can I trace a bank transfer using the transaction reference?,money_transfer,validation
+The recipient did not get my international transfer after several days.,money_transfer,test
+A payment app debited me twice when I sent money to a friend.,money_transfer,test
+I cancelled a remittance but the transferred amount has not been returned.,money_transfer,test
+Money was sent to an unknown beneficiary through an unauthorized transfer.,money_transfer,test
+My credit report contains a loan that does not belong to me.,credit_reporting,train
+The credit bureau has not corrected an inaccurate payment history.,credit_reporting,train
+A closed account still appears as overdue on my credit report.,credit_reporting,train
+My credit score dropped because of a duplicate entry on the report.,credit_reporting,train
+I disputed an error with the credit reporting agency but received no update.,credit_reporting,train
+Someone used my identity and fraudulent accounts appear on my credit file.,credit_reporting,train
+My credit report mixes my information with another person of the same name.,credit_reporting,train
+I cannot access the credit report I requested from the bureau.,credit_reporting,train
+A hard inquiry appears on my credit file without my authorization.,credit_reporting,train
+The credit bureau lists an incorrect outstanding balance for a repaid loan.,credit_reporting,train
+A negative entry remains on my credit report after it was corrected by the lender.,credit_reporting,train
+My credit file has the wrong date of birth and address.,credit_reporting,train
+I want to place a security freeze on my credit report.,credit_reporting,train
+The credit reporting agency rejected my supporting dispute documents.,credit_reporting,train
+My credit score is affected by a payment wrongly marked as late.,credit_reporting,train
+The credit bureau has duplicated the same collection account.,credit_reporting,train
+An account belonging to someone else is hurting my credit score.,credit_reporting,validation
+The bureau has not answered my dispute about an inaccurate credit report.,credit_reporting,validation
+My credit file shows a late payment even though I paid on time.,credit_reporting,validation
+How do I freeze access to my credit report after identity theft?,credit_reporting,validation
+There is a wrong loan balance on my credit report after full repayment.,credit_reporting,test
+My credit bureau file shows duplicate accounts and a lower score.,credit_reporting,test
+The reporting agency combined my history with an unrelated person.,credit_reporting,test
+A credit inquiry I never authorized appears in my report.,credit_reporting,test
+A debt collector keeps calling about a debt that is not mine.,debt_collection,train
+The collection agency threatened me and my family over an unpaid balance.,debt_collection,train
+I requested written debt validation but the collector has not provided it.,debt_collection,train
+A debt collection company contacts me at work after I asked them to stop.,debt_collection,train
+The collector is demanding more than the original debt amount.,debt_collection,train
+I settled this debt but the collection agency is still pursuing payment.,debt_collection,train
+Debt collectors are calling me repeatedly throughout the day.,debt_collection,train
+The collection agency disclosed my debt to a relative without permission.,debt_collection,train
+A debt collector sent a demand letter with no creditor information.,debt_collection,train
+I dispute the collection account because the balance has already been paid.,debt_collection,train
+The debt collection agent is using abusive language in telephone calls.,debt_collection,train
+A collection agency is demanding payment for an old debt I do not recognize.,debt_collection,train
+My written request to stop collection calls has been ignored.,debt_collection,train
+The collector refuses to explain the added fees on the debt.,debt_collection,train
+Two collection agencies are trying to collect the same debt.,debt_collection,train
+A collection notice arrived for someone who does not live at my address.,debt_collection,train
+The debt collector is harassing me with repeated threatening calls.,debt_collection,validation
+I need proof that the collection agency owns this debt.,debt_collection,validation
+A collector continues contacting my workplace about a settled balance.,debt_collection,validation
+How do I dispute a debt collection demand that belongs to someone else?,debt_collection,validation
+A collection agency calls my relatives about a debt I already paid.,debt_collection,test
+The debt collector will not provide written verification of the amount.,debt_collection,test
+I received threatening messages demanding payment from a collection company.,debt_collection,test
+Collection letters list an incorrect creditor and debt balance.,debt_collection,test
+My mortgage servicer applied my monthly payment to the wrong loan.,loan,train
+The lender changed the interest rate on my personal loan unexpectedly.,loan,train
+My student loan repayment plan was rejected without explanation.,loan,train
+The auto loan company has charged an incorrect early repayment penalty.,loan,train
+My mortgage escrow payment increased and the lender cannot explain why.,loan,train
+I paid off my loan but have not received the closure certificate.,loan,train
+The lender is threatening foreclosure despite my loan modification application.,loan,train
+A student loan payment was not credited to my repayment balance.,loan,train
+My home loan application remains pending after I submitted all documents.,loan,train
+The personal loan installment amount differs from the signed agreement.,loan,train
+I need a hardship arrangement for my mortgage repayments.,loan,train
+The loan servicer lost the documents for my payment deferral request.,loan,train
+My vehicle loan account shows overdue installments that were already paid.,loan,train
+I was charged an undisclosed loan processing fee at disbursement.,loan,train
+The mortgage company failed to pay property taxes from my escrow account.,loan,train
+My student loan balance has grown despite making regular repayments.,loan,train
+The mortgage lender has not applied my latest installment correctly.,loan,validation
+I cannot get a final closure letter after paying the entire personal loan.,loan,validation
+The student loan servicer ignored my request for a hardship plan.,loan,validation
+How is interest calculated on my auto loan repayment schedule?,loan,validation
+My mortgage statement lists an installment as missed even though it was paid.,loan,test
+The lender added an unexpected fee to close my vehicle loan early.,loan,test
+I requested a student loan payment deferral and have received no answer.,loan,test
+My home loan interest rate changed without the required explanation.,loan,test

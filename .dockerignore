@@ -1,0 +1,14 @@
+.git
+.venv
+**/node_modules
+frontend/dist
+**/__pycache__
+.env
+*.db
+*.db-*
+.pytest_cache
+.coverage
+artifacts
+data/cfpb*
+**/*.tsbuildinfo
+.openai

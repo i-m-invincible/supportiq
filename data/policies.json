@@ -1,0 +1,86 @@
+[
+  {
+    "id": "POL-CARD-01",
+    "title": "Disputed card charges",
+    "category": "credit_card",
+    "body": "For a duplicate, unrecognized, or incorrect credit card charge, record the merchant name, transaction date, and disputed amount. Submit these details through the secure card dispute form for review. Do not include full card numbers in an email or chat.\n\nA dispute review does not guarantee a refund. A support specialist must verify transaction records and confirm any decision through the secure portal.",
+    "source": "SupportIQ fictional demonstration handbook \u00b7 v1"
+  },
+  {
+    "id": "POL-CARD-02",
+    "title": "Card fees and reward adjustments",
+    "category": "credit_card",
+    "body": "For unexpected card fees, interest charges, or missing rewards, provide the statement period and the relevant offer or agreement reference through the secure support portal. The card team will compare the charge with the account terms.\n\nFee waivers and reward adjustments require approval after review. Do not promise a refund, waiver, or completion date before that review.",
+    "source": "SupportIQ fictional demonstration handbook \u00b7 v1"
+  },
+  {
+    "id": "POL-ACCT-01",
+    "title": "Account access and identity verification",
+    "category": "bank_account",
+    "body": "If online banking access is locked or blocked, use the official account recovery flow. If recovery fails, request a secure identity verification session with account support. Never share a password, PIN, or one-time verification code with an agent.\n\nFor a frozen account, an account specialist must review the restriction and confirm the next steps. Support cannot remove restrictions or promise restoration from a complaint alone.",
+    "source": "SupportIQ fictional demonstration handbook \u00b7 v1"
+  },
+  {
+    "id": "POL-ACCT-02",
+    "title": "Account balances, deposits and fees",
+    "category": "bank_account",
+    "body": "For a missing deposit, incorrect balance, ATM cash issue, or unexpected account fee, record the transaction date, amount, and reference if available. Submit the details through the secure banking support portal for reconciliation.\n\nAccount fee adjustments and deposit availability depend on verified account records. A support agent must confirm the outcome rather than promise an immediate credit.",
+    "source": "SupportIQ fictional demonstration handbook \u00b7 v1"
+  },
+  {
+    "id": "POL-PAY-01",
+    "title": "Pending or failed money transfers",
+    "category": "money_transfer",
+    "body": "For a pending, failed, or missing money transfer, provide the transfer reference, date, and recipient institution through the secure transfer support form. The payments team can trace the transfer and confirm its status.\n\nDo not send the same transfer again until its status is confirmed. A failed transfer message alone does not establish whether funds have been returned.",
+    "source": "SupportIQ fictional demonstration handbook \u00b7 v1"
+  },
+  {
+    "id": "POL-PAY-02",
+    "title": "Transfer cancellation and suspected fraud",
+    "category": "money_transfer",
+    "body": "For an incorrect recipient or a suspected unauthorized transfer, contact the payments security team through the official support channel as soon as possible. Record the transfer reference without sharing passwords or verification codes.\n\nCancellation or recovery depends on the transfer status and verification. A support agent cannot guarantee recovery or reverse a transfer without authorization.",
+    "source": "SupportIQ fictional demonstration handbook \u00b7 v1"
+  },
+  {
+    "id": "POL-CREDIT-01",
+    "title": "Credit report corrections",
+    "category": "credit_reporting",
+    "body": "For an inaccurate credit report entry, identify the reporting agency, disputed account, and specific information believed to be wrong. Submit a correction request with supporting records through the secure credit reporting dispute channel.\n\nThe reviewing team must compare the disputed entry with source records. Do not promise removal of an entry or a change in credit score before a decision.",
+    "source": "SupportIQ fictional demonstration handbook \u00b7 v1"
+  },
+  {
+    "id": "POL-CREDIT-02",
+    "title": "Unrecognized credit accounts",
+    "category": "credit_reporting",
+    "body": "For unrecognized accounts, unauthorized inquiries, or a mixed credit file, use the reporting agency official identity dispute and security options. Send supporting records only through a secure verified channel.\n\nA credit reporting specialist should review possible identity misuse. Support must not confirm identity theft or guarantee a specific score correction from the complaint alone.",
+    "source": "SupportIQ fictional demonstration handbook \u00b7 v1"
+  },
+  {
+    "id": "POL-DEBT-01",
+    "title": "Debt validation and disputed balances",
+    "category": "debt_collection",
+    "body": "For a collection demand that is unrecognized or already settled, request the creditor name, account reference, and written balance explanation through the verified collection support channel. Keep copies of relevant payment records and notices.\n\nA specialist must reconcile disputed debt records before advising on the balance. Do not assert that a debt is valid or invalid without that review.",
+    "source": "SupportIQ fictional demonstration handbook \u00b7 v1"
+  },
+  {
+    "id": "POL-DEBT-02",
+    "title": "Collection contact complaints",
+    "category": "debt_collection",
+    "body": "For repeated, abusive, or threatening collection contact, record the dates, channels, caller details, and relevant messages. Escalate the complaint to a collection conduct specialist through the secure complaint channel.\n\nRequests about contact preferences must be recorded for specialist review. Agents should not promise legal remedies or claim a contact restriction has already been applied.",
+    "source": "SupportIQ fictional demonstration handbook \u00b7 v1"
+  },
+  {
+    "id": "POL-LOAN-01",
+    "title": "Loan payments and account corrections",
+    "category": "loan",
+    "body": "For a missing loan payment, incorrect installment, interest calculation, or closure document, provide the loan reference and payment receipt through the secure loan servicing portal. The servicing team must reconcile these with the repayment schedule.\n\nFee adjustments, corrected statements, and closure documents require verified records. Do not promise a waiver or completion date before servicing review.",
+    "source": "SupportIQ fictional demonstration handbook \u00b7 v1"
+  },
+  {
+    "id": "POL-LOAN-02",
+    "title": "Loan hardship and urgent servicing",
+    "category": "loan",
+    "body": "For a mortgage foreclosure concern or difficulty meeting loan repayments, request priority review from the loan hardship team through the official servicing channel. Include the relevant notices and any existing assistance request reference securely.\n\nHardship options depend on the verified loan terms and circumstances. A support response must not promise approval, suspend a payment obligation, or confirm that a proceeding has stopped.",
+    "source": "SupportIQ fictional demonstration handbook \u00b7 v1"
+  }
+]

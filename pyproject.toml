@@ -1,0 +1,11 @@
+[tool.pytest.ini_options]
+testpaths = ["backend/tests"]
+pythonpath = ["backend", "."]
+addopts = "-ra"
+
+[tool.coverage.run]
+source = ["backend/app"]
+omit = ["backend/app/seed.py"]
+
+[tool.coverage.report]
+show_missing = true

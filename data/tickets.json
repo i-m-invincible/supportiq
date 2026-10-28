@@ -1,0 +1,164 @@
+[
+  {
+    "customer_name": "Aarav Mehta",
+    "subject": "Card charged twice for one order",
+    "body": "My credit card statement shows two charges for one purchase at the same merchant. I am frustrated because I only placed one order. Please help me dispute the duplicate charge.",
+    "channel": "email",
+    "age_hours": 0.4,
+    "status": "in_review",
+    "assignee": "Maya Chen"
+  },
+  {
+    "customer_name": "Sana Ahmed",
+    "subject": "Unable to access my account",
+    "body": "I am locked out of online banking and the account recovery flow keeps failing. My salary is in this account and I need access to pay my rent. This is very stressful.",
+    "channel": "chat",
+    "age_hours": 1.1,
+    "status": "open",
+    "assignee": "Unassigned"
+  },
+  {
+    "customer_name": "Daniel Brooks",
+    "subject": "Transfer still pending",
+    "body": "My international money transfer has been pending for three days. The recipient has not received the money. I have a transfer reference and need someone to trace the payment.",
+    "channel": "web",
+    "age_hours": 2.2,
+    "status": "in_review",
+    "assignee": "Alex Morgan"
+  },
+  {
+    "customer_name": "Priya Shah",
+    "subject": "Unrecognized card purchases",
+    "body": "There are unauthorized purchases on my stolen credit card. I did not make these transactions and I am worried someone is still using the card. Please arrange urgent review.",
+    "channel": "phone",
+    "age_hours": 0.7,
+    "status": "open",
+    "assignee": "Maya Chen"
+  },
+  {
+    "customer_name": "Leo Martin",
+    "subject": "Incorrect account on credit report",
+    "body": "My credit report contains a loan that does not belong to me. I disputed the inaccurate entry with the bureau but nothing changed. The lower score is affecting my application.",
+    "channel": "email",
+    "age_hours": 6,
+    "status": "in_review",
+    "assignee": "Alex Morgan"
+  },
+  {
+    "customer_name": "Nisha Rao",
+    "subject": "Collection calls after settlement",
+    "body": "A debt collector keeps calling my workplace about a balance I already settled. The repeated threatening calls are unacceptable. I have the settlement receipt and need a specialist.",
+    "channel": "email",
+    "age_hours": 9,
+    "status": "open",
+    "assignee": "Unassigned"
+  },
+  {
+    "customer_name": "James Park",
+    "subject": "Loan payment not credited",
+    "body": "My mortgage payment was deducted but the loan statement still shows an overdue installment. Please check the payment receipt against my repayment schedule.",
+    "channel": "web",
+    "age_hours": 26,
+    "status": "in_review",
+    "assignee": "Maya Chen"
+  },
+  {
+    "customer_name": "Ananya Sen",
+    "subject": "Savings account maintenance fee",
+    "body": "An unexpected maintenance fee was deducted from my savings account. I believed my account met the balance requirement. Please review the account terms.",
+    "channel": "chat",
+    "age_hours": 30,
+    "status": "approved",
+    "assignee": "Alex Morgan"
+  },
+  {
+    "customer_name": "Oliver Reed",
+    "subject": "Reward points missing",
+    "body": "The cash back points for my credit card purchase have not appeared on the statement. I would appreciate a review of the rewards calculation.",
+    "channel": "email",
+    "age_hours": 50,
+    "status": "resolved",
+    "assignee": "Maya Chen"
+  },
+  {
+    "customer_name": "Meera Kapoor",
+    "subject": "How to trace a transfer",
+    "body": "How can I track a money transfer using its reference? I would like information about the payments support process before submitting a request.",
+    "channel": "web",
+    "age_hours": 53,
+    "status": "resolved",
+    "assignee": "Alex Morgan"
+  },
+  {
+    "customer_name": "Noah Kim",
+    "subject": "Credit report correction request",
+    "body": "My credit report still shows a closed loan as open. I have the closure document and would like to submit it to the credit reporting agency for a correction.",
+    "channel": "email",
+    "age_hours": 72,
+    "status": "approved",
+    "assignee": "Maya Chen"
+  },
+  {
+    "customer_name": "Ishaan Roy",
+    "subject": "Loan closure certificate",
+    "body": "I paid the full amount of my vehicle loan but have not received the closure certificate. The loan servicing portal still shows an outstanding account.",
+    "channel": "web",
+    "age_hours": 77,
+    "status": "open",
+    "assignee": "Unassigned"
+  },
+  {
+    "customer_name": "Emma Davis",
+    "subject": "Account recovery completed",
+    "body": "Thank you for the helpful support with recovering my online banking account. I can now sign in, but I would like to confirm how to update the phone number safely.",
+    "channel": "chat",
+    "age_hours": 96,
+    "status": "resolved",
+    "assignee": "Alex Morgan"
+  },
+  {
+    "customer_name": "Kabir Sethi",
+    "subject": "Debt validation requested",
+    "body": "I received a collection notice for a debt I do not recognize. The collection agency has not sent written verification of the creditor or the amount claimed.",
+    "channel": "email",
+    "age_hours": 105,
+    "status": "in_review",
+    "assignee": "Maya Chen"
+  },
+  {
+    "customer_name": "Sofia Lewis",
+    "subject": "Unexpected mortgage interest",
+    "body": "My mortgage interest rate changed and the next loan installment is larger. The lender has not explained how this matches the repayment agreement.",
+    "channel": "phone",
+    "age_hours": 122,
+    "status": "resolved",
+    "assignee": "Alex Morgan"
+  },
+  {
+    "customer_name": "Rohan Das",
+    "subject": "Transfer cancellation status",
+    "body": "I cancelled a wire transfer after entering the wrong recipient details. Please confirm whether cancellation is possible and what happened to the payment amount.",
+    "channel": "web",
+    "age_hours": 127,
+    "status": "open",
+    "assignee": "Unassigned"
+  },
+  {
+    "customer_name": "Amelia Wilson",
+    "subject": "Disputed card annual fee",
+    "body": "My credit card was billed an annual membership fee although the original offer said the first year was free. Please compare the charge with the offer.",
+    "channel": "email",
+    "age_hours": 145,
+    "status": "resolved",
+    "assignee": "Maya Chen"
+  },
+  {
+    "customer_name": "Arjun Nair",
+    "subject": "Repeated bank login failure",
+    "body": "The mobile banking app rejects my verification step and I cannot access my checking account. This is the third time I have contacted support about the same problem.",
+    "channel": "chat",
+    "age_hours": 149,
+    "status": "open",
+    "assignee": "Unassigned"
+  }
+]
